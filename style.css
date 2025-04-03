@@ -1,15 +1,26 @@
 header {
     background-color: rgba(182, 118, 36, 0.204);
-    font-family:Georgia, 'Times New Roman', Times, serif;
-    font-style: oblique italic initial;font-size: xx-large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: oblique italic initial;
+    font-size: xx-large;
     text-align: center;
 }
-main{
-    background-image:;
-}
+
+
+
 body {
     background-color: rgba(187, 187, 74, 0.555);
     font-family: 'Times New Roman', Times, serif;
-    font-style: oblique italic;font-size: large;
-    text-align:center;
+    font-style: oblique italic;
+    font-size: large;
+    text-align: center;
+    background-image: -webkit-image-set("https://i.pinimg.com/originals/23/98/2b/23982b0328f713b57876b073267e579b.jpg");
+    border-image: space;
+    backface-visibility: visible;
+    
+
+}
+
+footer {
+    font-style: italic bold 5px;
 }
