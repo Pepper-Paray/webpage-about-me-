@@ -7,9 +7,14 @@ header {
 }
 nav{
     border-style: double; 
-    text-decoration-line: underline;
+    text-decoration-line: overline;
      font-style: italic bold ;
     font-size: medium;
+    a:hover {
+        background-color: darkmagenta;
+        font-size: 18px;
+        text-decoration-line: underline;
+      }
 }
 
 
