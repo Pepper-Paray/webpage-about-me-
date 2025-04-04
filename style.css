@@ -5,7 +5,12 @@ header {
     font-size: xx-large;
     text-align: center;
 }
-
+nav{
+    border-style: double; 
+    text-decoration-line: underline;
+     font-style: italic bold ;
+    font-size: medium;
+}
 
 
 body {
@@ -22,5 +27,5 @@ body {
 }
 
 footer {
-    font-style: italic bold 5px;
+    font-style: italic bold 5px;background-blend-mode: color-burn;
 }
